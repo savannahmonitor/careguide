@@ -1,51 +1,152 @@
-#Quickstart guide!
+**Contents:**
+
+#[Quickstart:](https://www.reddit.com/r/savannahmonitor/wiki/quickstart) A brief guide with must know information
+
+###[Is a savannah monitor the right pet for me?](https://www.reddit.com/r/savannahmonitor/wiki/therightpet)
+
+##Care
+###1. [How to handle a new Savannah monitor](https://www.reddit.com/r/savannahmonitor/wiki/newsav)
+
+>Learn what to do when you bring your baby Savannah monitor home.
+
+###2. [How to handle a rescue](https://www.reddit.com/r/savannahmonitor/wiki/rescue)
+
+>Learn about what to do when you bring your rescued savannah monitor home.
+
+###3. [Taming your Savannah Monitor](https://www.reddit.com/r/savannahmonitor/wiki/index/taming)
+
+>Learn steps to achieve closeness with your Savannah Monitor. It is endorsed to use a monitor centered approach to taming. Allow interactions to be positive and on the monitors terms. 
+
+###4. [Substandard Care](https://www.reddit.com/r/savannahmonitor/wiki/substandardcare)
+
+>Learn about common mistakes we do not endorse savannah owners to do.
 
 
-* Minimum 8x4x4 sealed enclosure
 
-* Minimum 18"-2ft sand/soil substrate
+##Health
+###1. [Preventative Health Measures: Quarantine and Record Keeping](https://www.reddit.com/r/savannahmonitor/wiki/recordkeeping)
 
-* UVB lighting
+>Learn about Quarantine and how to do. Regular record keeping is a great way to monitor your monitor.
 
-* Basking surface temp measured by laser temp gun 130-160F
+###2. [Common Diseases](https://www.reddit.com/r/savannahmonitor/wiki/commondisease)
 
-* Cool side ambient temps measured digitally 75F-80F
+>Learn about common diseases in Savannah Monitors and how to prevent them.
 
-* Hot side ambient temps measured digitally 90F-100F
+###3. [Stress in Savannah monitors](https://www.reddit.com/r/savannahmonitor/wiki/stress)
 
-* Humidity varying range above 65%
+>Learn about stress in savannah monitors and how to reduce it.
 
-* Soaking dish and hides
+###4. [Sexing your Savannah monitor](https://www.reddit.com/r/savannahmonitor/wiki/sexing)
 
-* Arthropod/invert based diet, dusted with calcium
+>Learn about the gender of your Savannah monitor.
 
-* Veterinary testing
+###5. [Female Care]( https://www.reddit.com/r/savannahmonitor/wiki/femalecare)
 
+>Female savannah monitors need a nest box. Learn about how to care for female savs here.
+
+###6. [Breeding Behavior](https://www.reddit.com/r/savannahmonitor/wiki/breedingbehavior)
+
+>This is a guide about breeding savannah monitors by a successful breeder, Dean Cheetham.
+
+###7. [First Aid](https://www.reddit.com/r/savannahmonitor/wiki/firstaid)
+
+>Read about what items to have for a first aid kit.
  
-8x4x4 is minimum requirements for enclosure size. Build as large as you can. You want to seal the wood to deter rotting and keep humidity in. Proper substrate of 40/60 sand/soil and the depth to allow your savannah monitor to burrow, as they are a burrowing species.
+  
+##Husbandry 
+###1. [Husbandry](https://www.reddit.com/r/savannahmonitor/wiki/husbandary)
 
-We do not endorse anything smaller or aquarium tanks as they are not suitable. Most people will have to build their own enclosure. While you prepare the proper enclosure, a plant tent or the largest tote you can find may be suitable for a short period of time. 
+>Learn the requirements for a proper enclosure. 
 
-Read more about enclosures [here.](www.reddit.com/r/savannahmonitor/wiki/husbandry)
+###2. [Enclosure Builds](https://www.reddit.com/r/savannahmonitor/wiki/enclosurebuild)
+
+>Learn how to build an indoor enclosure. Check out images of enclosures and other build examples.
+
+###3. [Enclosure supplies](https://www.reddit.com/r/savannahmonitor/wiki/enclosuresupplies)
+
+>This section is advice on what items are recommended for a savannah monitor enclosure.
+
+###4. [Temperature](https://www.reddit.com/r/savannahmonitor/wiki/temperature)
+
+>Learn about the science of temperature and how it relates to savannah monitors.
+
+###5. [Lighting](https://www.reddit.com/r/savannahmonitor/wiki/lighting)
+
+>Proper lighting and heating is essential for your pet monitor. In this section you'll find best practices as well recommendations for selecting correct wattage and sizing of heat lamps.
  
-Savannah monitors are cold blooded and have to thermoregulate themselves from heat sources. It is required to have a cool side and hot side with a basking spot to keep your savannah monitor healthy. Of course, you should have your lights set up to simulate day and night. An lightless heat lamp can help keep ambient and night time temps warm. Do not use red lights. 
+###6. [Bioactive](https://www.reddit.com/r/savannahmonitor/wiki/bioactive)
 
-Read more about [temperature](www.reddit.com/r/savannahmonitor/wiki/temperature) and [lighting.](www.reddit.com/r/savannahmonitor/wiki/lighting)  
- 
-Humidity is easily achieved with a spray bottle/mister. Keeping humidity is also achieved with moss, leaf litter, logs, a proper enclosure (not all glass), and any plants that can survive. A fogger or misting system is just not needed (unless your climate calls for it) as they can easily get a respiratory infection from too much humidity.
+>Learn what bioactive is and what you need, along with a list of suppliers.
 
-(note about plants: your savannah will probably trample them, or they will die without fertilizer. some people have had luck planting a plant that is potted into their enclosure keeping the fertilizer dirt separate.  
+###7. [Enrichment](https://www.reddit.com/r/savannahmonitor/wiki/enrichment)
 
-Savannah monitors need drinking water and a soaking dish. Commonly used for soaking tubs are cat litter boxes, dog bowls, or tupperware. Plastic is easy to clean and move.
- 
-Do not bathe your savannah monitor. This is very popular advice for shed or constipation but is not endorsed by experienced owners for health reasons. Savannah monitors are burrowers and often soak in puddles. In their natural habitat they live near the nile river, but are ABSOLUTELY terrified because, guess what, it is full of predators! Their intuition of this will stress them out. HOWEVER, it is advised to soak a savannah monitor in a tub if it is for healing a burn wound. 
+>Learn ways to enrich your savannah monitors life!
 
-Savannah monitors need places to hide to feel secure. They are often preyed upon in the wild. Do not grab your savannah from above, as this simulates a bird of prey. If you can, have your enclosure with a side entrance. 
+###8. [Rete's stack](https://www.reddit.com/r/savannahmonitor/wiki/retestack)
 
-Savannah monitors eat an arthropod based diet. Keep in mind that these animals are simply not designed to digest large quantities of fur and fat, and the constraints of a captive lifestyle can only compound potential issues. Dust feeders with calcium. 
+>A Rete's stack is a great structure to help your savannah monitor thermoregulate. Includes examples.
 
-Check out a feeder list [here.](www.reddit.com/r/savannahmonitor/wiki/feederlist) Read more about how to feed your Savannah monitor [here.](www.reddit.com/r/savannahmonitor/wiki/dietinfo)
 
-Always take your new pet to the vet. 99% of Savannah monitors are wild caught. That means they have been through the stress of transportation and have a high risk of having parasites from the wild.
- 
-Read more about where savannah monitors come from and the pet trade [here.](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddem
+##Diet
+###1. [Diet Information](https://www.reddit.com/r/savannahmonitor/wiki/dietinfo)
+
+> Basic information about the savannah monitors diet, how much to feed, and nutritional value of feeders.
+
+###2. [Understanding Nutrition](https://www.reddit.com/r/savannahmonitor/wiki/nutrition)
+
+>An approach to understanding nutrition and a list of nutritional needs for your savannah monitor 
+
+###3. [List of Feeders](https://www.reddit.com/r/savannahmonitor/wiki/feederlist)
+
+>Basic list of what you can feed your savannah monitor.
+
+###4. [Gut-loading your feeders](https://www.reddit.com/r/savannahmonitor/wiki/gutloading)
+
+>Learn why gutloading is important and ways to accomplish it
+
+###5. [Calcium](https://www.reddit.com/r/savannahmonitor/wiki/calcium)
+
+>Learn about why calcium is so important.
+
+###6. [Feeder Care](https://www.reddit.com/r/savannahmonitor/wiki/feedercare)
+
+>A write up on how to care for the food for your savannah monitor.
+
+###7. [Why Dog Food is Bad](https://www.reddit.com/r/savannahmonitor/wiki/index/dogfoodbad)
+
+>Learn the process of dog foods and why you should not feed your savannah monitor dog food.
+
+
+###8. [Natural Diet in the wild](https://www.reddit.com/r/savannahmonitor/wiki/naturaldiet)
+
+>scientific data on the natural diet of the wild savannah monitor
+
+
+##Other
+###1. [FAQ](https://www.reddit.com/r/savannahmonitor/wiki/faq)
+
+>frequently asked questions
+
+###2. [Other Studies](https://www.reddit.com/r/savannahmonitor/wiki/otherstudies)
+
+>lists of other interesting studies
+
+###3. [Weather in natural habitat](https://www.reddit.com/r/savannahmonitor/wiki/naturalweather)
+
+>A yearly report of the weather in the African Savannah.
+
+###4. [Aestivation/Estivation](https://www.reddit.com/r/savannahmonitor/wiki/aestivationestivation)
+
+>Learn about Aestivation/Estivation. It is a natural process to the wild savannah monitor.
+
+###5. [An Autopsy Example By Dean Cheetham](https://www.reddit.com/r/savannahmonitor/wiki/autopsyexample)
+
+>Dean Cheetham, a breeder, documents a dissection to diagnose death of a savannah monitor
+
+###6. [Natural Disaster Preparation](https://www.reddit.com/r/savannahmonitor/wiki/naturaldisaster)
+
+>A guide on how to prepare for your pets surviving a natural disaster.
+
+###7. [How to stop supply and demand](https://www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand)
+
+>Learn about the pet trade and how to stop supply and demand. (hint: rescue/adopt)
