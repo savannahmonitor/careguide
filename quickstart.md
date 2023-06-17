@@ -26,11 +26,11 @@
 
 We do not endorse anything smaller or aquarium tanks as they are not suitable. Most people will have to build their own enclosure. While you prepare the proper enclosure, a plant tent or the largest tote you can find may be suitable for a short period of time. 
 
-Read more about enclosures [here.](www.reddit.com/r/savannahmonitor/wiki/husbandry)
+Read more about enclosures [here.](https://github.com/savannahmonitor/careguide/blob/main/husbandry.md)
  
 Savannah monitors are cold blooded and have to thermoregulate themselves from heat sources. It is required to have a cool side and hot side with a basking spot to keep your savannah monitor healthy. Of course, you should have your lights set up to simulate day and night. An lightless heat lamp can help keep ambient and night time temps warm. Do not use red lights. 
 
-Read more about [temperature](www.reddit.com/r/savannahmonitor/wiki/temperature) and [lighting.](www.reddit.com/r/savannahmonitor/wiki/lighting)  
+Read more about [temperature](https://github.com/savannahmonitor/careguide/blob/main/temperature.md) and [lighting.](https://github.com/savannahmonitor/careguide/blob/main/lighting.md)  
  
 Humidity is easily achieved with a spray bottle/mister. Keeping humidity is also achieved with moss, leaf litter, logs, a proper enclosure (not all glass), and any plants that can survive. A fogger or misting system is just not needed (unless your climate calls for it) as they can easily get a respiratory infection from too much humidity.
 
@@ -44,8 +44,8 @@ Savannah monitors need places to hide to feel secure. They are often preyed upon
 
 Savannah monitors eat an arthropod based diet. Keep in mind that these animals are simply not designed to digest large quantities of fur and fat, and the constraints of a captive lifestyle can only compound potential issues. Dust feeders with calcium. 
 
-Check out a feeder list [here.](www.reddit.com/r/savannahmonitor/wiki/feederlist) Read more about how to feed your Savannah monitor [here.](www.reddit.com/r/savannahmonitor/wiki/dietinfo)
+Check out a feeder list [here.](https://github.com/savannahmonitor/careguide/blob/main/feederlist.md) Read more about how to feed your Savannah monitor [here.](https://github.com/savannahmonitor/careguide/blob/main/dietinfo.md)
 
 Always take your new pet to the vet. 99% of Savannah monitors are wild caught. That means they have been through the stress of transportation and have a high risk of having parasites from the wild.
  
-Read more about where savannah monitors come from and the pet trade [here.](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand)
+Read more about where savannah monitors come from and the pet trade [here.](https://github.com/savannahmonitor/careguide/blob/main/stopsupplyanddemand.md)
