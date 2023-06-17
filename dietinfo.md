@@ -1,7 +1,7 @@
  
  
 
-#Diet and Feeding your Savannah Monitor
+# Diet and Feeding your Savannah Monitor
 
  by JENIFER SOLIDA
 
@@ -38,7 +38,7 @@ Captive Savannah Monitors will need to be provided a calcium supplement to avoid
 
 You need to be able to identify visual ideas of what a Savannah Monitor of a healthy weight should be.  Far too often on social media we see photos of overweight to morbidly obese captive Savannah Monitors and that is what has been accepted as the “norm”.  By researching wild Savannah Monitor images you can get a better idea of what a healthy Savannah Monitor would look like.  They are slender in the wild, not the tub of lard that you just saw being swaddled in a towel and cuddled on instagram/FB/youtube. You want your Savannah Monitor to be lean, with a sleek profile.  Closely tracking and being aware of what you are feeding your Savannah Monitor, as well as tracking its growth (weights and measurements) will help you to make better decisions about it’s care. 
 
-###Things to consider for your diet plan:
+### Things to consider for your diet plan:
 
 * age of Savannah Monitor
 
@@ -52,7 +52,7 @@ You need to be able to identify visual ideas of what a Savannah Monitor of a hea
 
 * supplements
 
-##Diet Advice
+## Diet Advice
 
 Hatchling/Juvenile Savannah Monitors need to be fed daily.  As an owner you have the opportunity to provide an environment reflective of their natural environment. You can add earthworms and nightcrawlers, roaches, superworms to their enclosure that will not only provide a supply of food for your young Savannah monitor but they also have the added benefit of enclosure maintenance.  This is perfect for newly acquired Savannah monitors that are still getting comfortable with their new surroundings and may not yet be used to feeders offered on tongs. It also helps support the natural behavior of foraging, which means that your Savannah Monitor will be expending energy to hunt down prey (built in exercise opportunity!).  Quite a few young Savannah monitors will show preference to crickets which is completely normal but you will need to continue attempts to offer a larger variety of feeders to cover a broader range of nutritional needs.  
 
@@ -65,7 +65,7 @@ You will see that the numbers vary from site to site (often based on what the si
 Check out the [feeder list](www.reddit.com/r/savannahmonitor/wiki/feederlist) for a list of feeders and their nutritional content.
 
  
-##Cites and suggested reading:
+## Cites and suggested reading:
 
 Effects of Overfeeding and Underfeeding on Reproduction in Four Species of Reptiles.  L. Malaret and H.S. Fitch. University of Kansas. Kansas Biological Survey. 1983
 
