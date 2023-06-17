@@ -150,3 +150,5 @@
 ###7. [How to stop supply and demand](https://www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand)
 
 >Learn about the pet trade and how to stop supply and demand. (hint: rescue/adopt)
+
+guide made in 2020
