@@ -48,4 +48,4 @@ Check out a feeder list [here.](www.reddit.com/r/savannahmonitor/wiki/feederlist
 
 Always take your new pet to the vet. 99% of Savannah monitors are wild caught. That means they have been through the stress of transportation and have a high risk of having parasites from the wild.
  
-Read more about where savannah monitors come from and the pet trade [here.](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddem
+Read more about where savannah monitors come from and the pet trade [here.](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand)
