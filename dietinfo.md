@@ -32,7 +32,7 @@ You will often see the comment “feed based on energy use”.  This means findi
 
 Something that needs to be understood by owners is how reptiles metabolize differently than mammals or avians.  Reptiles are an ectothermic species, this means unlike mammals or avians, they do not waste energy maintaining their body temperature.  The caloric requirements for a mammal of a similiar size to your Savannah monitor for just a day could fuel your Sav for a month.
 
-In the wild Savannah Monitors can travel great distances, are exposed to natural elements (and sometimes harsh environments), prepare for breeding opportunities and approximately 6 months of aestivation (please see [Aestivation](https://github.com/savannahmonitor/careguide/blob/main/aestivation.md).  While we do suggest following a more natural diet as far as types of feeders, because captives do not normally experience any of what I mentioned in the previous statement they have a significantly lower calorie requirement. 
+In the wild Savannah Monitors can travel great distances, are exposed to natural elements (and sometimes harsh environments), prepare for breeding opportunities and approximately 6 months of aestivation (please see [Aestivation](https://github.com/savannahmonitor/careguide/blob/main/aestivation.md)).  While we do suggest following a more natural diet as far as types of feeders, because captives do not normally experience any of what I mentioned in the previous statement they have a significantly lower calorie requirement. 
 
 Captive Savannah Monitors will need to be provided a calcium supplement to avoid calcium deficiencies, dust all feeders offered.
 
@@ -62,7 +62,7 @@ What I have found helpful is sitting down and looking at nutritional content of 
 
 You will see that the numbers vary from site to site (often based on what the site is selling and what stage the insect is in) but these are the average nutritional values for most commonly offered feeders.  Something that an owner also needs to take into consideration is what is used to gutload feeders prior to feeding off, as this does affect the values received by the monitor.
 
-Check out the [feeder list](www.reddit.com/r/savannahmonitor/wiki/feederlist) for a list of feeders and their nutritional content.
+Check out the [feeder list](https://github.com/savannahmonitor/careguide/blob/main/feederlist.md) for a list of feeders and their nutritional content.
 
  
 ## Cites and suggested reading:
