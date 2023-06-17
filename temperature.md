@@ -165,7 +165,7 @@ longer wavelength low grade heat.
 This wavelength is analogous to the point where sound is still sound but can also be felt as
 vibration.
 
-(NOTE: to read about why red lights are bad click [here.]( reddit.com/r/savannahmonitor/wiki/redlights))
+(NOTE: to read about why red lights are bad click [here.](https://github.com/savannahmonitor/careguide/blob/main/redlights.md))
 
 ## What do we provide for our animals?
 
