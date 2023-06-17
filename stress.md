@@ -1,4 +1,4 @@
-#Stress and captive Savannah Monitors
+# Stress and captive Savannah Monitors
 
 by JENIFER SOLIDA
 
@@ -6,7 +6,7 @@ Savannah Monitors are extremely susceptible to stress. They are naturally a shy 
 
 Stress can affect immune function, the endocrine system, parasitic levels, hormones and reproduction, metabolic response.  Consistent spikes and chronic exposure to stressors can have a negative affect on the overall health of your monitor. 
 
-##COMMON CAUSES OF STRESS IN CAPTIVITY
+## COMMON CAUSES OF STRESS IN CAPTIVITY
 
 * Artificial lighting
 
@@ -34,19 +34,19 @@ Stress can affect immune function, the endocrine system, parasitic levels, hormo
 
 * Changes in environment
 
-##SIGNS OF STRESS
+## SIGNS OF STRESS
 
  > PRIMARY RESPONSE TO STRESS: search and escape, fight or flight
 
  >> SECONDARY RESPONSE TO STRESS: biological shut down, self preservation method to reduce involuntary responses to stress   
 
-###CLINICAL ASSESSMENT
+### CLINICAL ASSESSMENT
 
 * Blood chemistry
 
 * Fecal sampling
 
-###VISUAL ASSESSMENT
+### VISUAL ASSESSMENT
 
 * Interaction with transparent boundaries (commonly referred to as “glass surfing”)
 
@@ -94,7 +94,7 @@ Stress can affect immune function, the endocrine system, parasitic levels, hormo
 
 * Sedentary behaviors
 
-##VISUAL CUES OF COMFORT
+## VISUAL CUES OF COMFORT
 
 * Normal, relaxed movement
 
@@ -104,7 +104,7 @@ Stress can affect immune function, the endocrine system, parasitic levels, hormo
 
 * Relaxed environmental exploration
 
-##WAYS TO MINIMIZE STRESS IN A CAPTIVE ENVIRONMENT
+## WAYS TO MINIMIZE STRESS IN A CAPTIVE ENVIRONMENT
 
 * Establish beneficial conditions in enclosure
 
@@ -129,7 +129,7 @@ preferred core temperature range (internal body temperature) of 85F-91.4F.
 
 * Learn your Savannah Monitors behaviors so that stress responses can more easily be identified
 
-##Cites and suggested reading:
+## Cites and suggested reading:
 
 Clinical Practive Exotics. Assessing reptile welfare using behavioral criteria. Clifford Warwich,Phillip Arena, Samantha Lindley, Mike Jessop and Catrina Steenan. inpractice.bmj.com/content/35/3/123
 
