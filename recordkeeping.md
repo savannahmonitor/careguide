@@ -1,15 +1,15 @@
-#Preventative Health Measures 
+# Preventative Health Measures 
 
-##Quarantine and Record Keeping: 
+## Quarantine and Record Keeping: 
  by JENIFER SOLIDA
 
 This write up is to discuss the importance of quarantine when obtaining a new (to you) Savannah Monitor, especially when you have established collection of reptiles.
 
-##WHAT IS QUARANTINE?
+## WHAT IS QUARANTINE?
 
 Quarantine is the act of isolating a newly acquired animal to note or treat any illness or injury, to monitor behavior, appetite, stool and activity.  It is also used to limit the risk of cross contamination, the spread of viral, bacterial and respiratory infections and the spread of intestinal or external parasites. 
 
-##SETTING UP QUARANTINE
+## SETTING UP QUARANTINE
 
 * Veterinary examination and diagnostic testing at the beginning of quarantine, follow up exam and testing prior to release from quarantine.
 
@@ -25,7 +25,7 @@ Quarantine is the act of isolating a newly acquired animal to note or treat any 
 
 The minimum suggested time period for quarantine is 30 days but because the incubation period of many transmittable diseases that can affect reptiles is unknown, 60-90 days is preferable. 
 
-##DETAILED RECORD KEEPING
+## DETAILED RECORD KEEPING
 
 Detailed record keeping during the quarantine period is recommended, this will enable you to track any changes and to have a detailed history for your veterinarian. You should note:
 
@@ -45,7 +45,7 @@ Detailed record keeping during the quarantine period is recommended, this will e
 
 * daily activity levels
 
-##SIGNS TO LOOK FOR DURING QUARANTINE PERIOD
+## SIGNS TO LOOK FOR DURING QUARANTINE PERIOD
 
 * significant weight loss
 
@@ -77,7 +77,7 @@ Detailed record keeping during the quarantine period is recommended, this will e
 
 * difficulty shedding
 
-##HYGIENE PRACTICES
+## HYGIENE PRACTICES
 
 Use an antibacterial soap before and after handling
 
