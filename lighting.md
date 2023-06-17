@@ -1,7 +1,7 @@
-#Lighting
+# Lighting
 
 
-##Recommendations: 
+## Recommendations: 
 
 * UVB bulb (Reptisun T5 high output or Arcadia 14% T5 HO) 
 * 3-4 60/65W-90W halogen flood bulbs par38
@@ -20,7 +20,7 @@ https://imgur.com/IBMENF3
 
 https://imgur.com/AT0WnDB
 
-##Understand Lighting
+## Understand Lighting
 
  by jordan spring
 
