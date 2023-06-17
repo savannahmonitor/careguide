@@ -20,7 +20,7 @@ to follow, but what has worked for me.
 
 * Breeding behaviours - Copulation, gestation, nesting and laying
 
-###My enclosure size and substrate:
+### My enclosure size and substrate:
 
 The size Enclosure i provide for my pair is 5x4x4(feet)
 
@@ -34,7 +34,7 @@ https://imgur.com/OKYWGP3
 
 I provide a substrate depth of 18" through out the entire enclosure.
 
-###Temperatures and humidity:
+### Temperatures and humidity:
 
 The temperatures and humidity i provide with in my enclosure are as follows.
 
@@ -48,7 +48,7 @@ The temperatures and humidity i provide with in my enclosure are as follows.
 
 * Substrate humidity - 99%
 
-###Nestbox size, temperature & substrate:
+### Nestbox size, temperature & substrate:
 
 With in the enclosure i provide a nestbox.
 
@@ -67,7 +67,7 @@ and sphagnum moss at a ratio of 70% playpit sand and 30% Topsoil with a top laye
 
 https://imgur.com/4YFDsjB
 
-###Copulation behaviour:
+### Copulation behaviour:
 
 The male will start scratching the females neck and hind limbs followed by some possible
 nibbling of the neck area and smelling around the females vent area. He will then proceed to
