@@ -1,6 +1,6 @@
 Frequently Asked Questions: By JENIFER SOLIDA
 
-How do I sex my Sav?: 
+# How do I sex my Sav?: 
 Without veterinary assistance, you will have to wait until the Savannah Monitor reaches sexual maturity. During defecation, scenting or for purposes of reproduction you may be able to catch a glance at a male’s fully everted hemipenes. For females it is the production of a clutch (eggs). The only other reliable method is a minimally invasive procedure performed by a licensed exotic’s veterinarian called endoscopy. See group file “Sexing Savannah Monitors”
 
 What size of enclosure does my Sav need?: 
