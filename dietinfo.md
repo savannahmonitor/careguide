@@ -32,7 +32,7 @@ You will often see the comment “feed based on energy use”.  This means findi
 
 Something that needs to be understood by owners is how reptiles metabolize differently than mammals or avians.  Reptiles are an ectothermic species, this means unlike mammals or avians, they do not waste energy maintaining their body temperature.  The caloric requirements for a mammal of a similiar size to your Savannah monitor for just a day could fuel your Sav for a month.
 
-In the wild Savannah Monitors can travel great distances, are exposed to natural elements (and sometimes harsh environments), prepare for breeding opportunities and approximately 6 months of aestivation (please see [Aestivation](www.reddit.com/r/savannamonitor/wiki/aestivationestivation)).  While we do suggest following a more natural diet as far as types of feeders, because captives do not normally experience any of what I mentioned in the previous statement they have a significantly lower calorie requirement. 
+In the wild Savannah Monitors can travel great distances, are exposed to natural elements (and sometimes harsh environments), prepare for breeding opportunities and approximately 6 months of aestivation (please see [Aestivation]([www.reddit.com/r/savannamonitor/wiki/aestivationestivation](https://github.com/savannahmonitor/careguide/blob/main/aestivation.md))).  While we do suggest following a more natural diet as far as types of feeders, because captives do not normally experience any of what I mentioned in the previous statement they have a significantly lower calorie requirement. 
 
 Captive Savannah Monitors will need to be provided a calcium supplement to avoid calcium deficiencies, dust all feeders offered.
 
