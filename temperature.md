@@ -19,7 +19,7 @@ Ectotherms do regulate their body temperature to some degree, it’s just not do
 
 A Savannah Monitor’s ability to thermoregulate effectively is entirely dependent on access to temperatures within it’s Preferred Optimal Temperature Zone (POTZ). The POTZ is a range of temperatures in which the monitor can perform all necessary metabolic functions. This is an extremely important aspect of captive husbandry. If not provided an appropriate thermal gradient (range of temperatures), the monitor will not be able to thermoregulate efficiently. 
 
-##WHEN TEMPERATURES ARE TOO LOW 
+## WHEN TEMPERATURES ARE TOO LOW 
 
 * Digestive issues
 
