@@ -1,6 +1,6 @@
-#Calcium
+# Calcium
 
-##RECOMMENDATIONS: 
+## RECOMMENDATIONS: 
 
 * change UVB bulb often
 
@@ -8,10 +8,10 @@
 
 * Use calcium+vitamin d if no UVB bulb
 
-##Warning
+## Warning
 Vitamin D is toxic when given in high doses. This can happen with overzealous supplementation. (UVB and vitamin D together) Signs of toxicity are soft tissue calcification of many body organs which can be visible on radiographs. Treatment is with aggressive fluid therapy.
 
-#Calcium deficiencies
+# Calcium deficiencies
 
 By JENIFER SOLIDA
 
