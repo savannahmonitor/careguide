@@ -1,4 +1,4 @@
-#Varanus Exanthematicus (Savannah Monitor) research and studies
+# Varanus Exanthematicus (Savannah Monitor) research and studies
 by JENIFER SOLIDA
 
 Michael Don, Angela Estany, Ana Ramos, Regina Leoni and Alan Muchlinski. Journal Of Herpetology. Vol. 28, No. 3, September 1994, pgs. 385-388. Re-Examination of the Afebrile Response in Two Species (Varanus Exanthematicus and Gerrhosaurus Major)
