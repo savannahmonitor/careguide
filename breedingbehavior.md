@@ -1,8 +1,8 @@
-#(UK)Captive Breeding/Nesting Of Varanus Exanthematicus
+# (UK)Captive Breeding/Nesting Of Varanus Exanthematicus
 
 By Dean Cheetham
 
-###Introduction:
+### Introduction:
 
 I am not very good at literature but i wanted to put together this slightly more in depth
 document when it comes to Exanthematicus and breeding behaviours, in the hope it may benefit
@@ -79,7 +79,7 @@ spread over a few days.
 
 https://imgur.com/EOPXnsP
 
-###Gestation:
+### Gestation:
 
 Once copulation has been successful, gestation period begins. (eggs developing inside the
 womb). This normally lasts between 18-24 days. The female will become a bit more lethargic
@@ -87,7 +87,7 @@ spending most of the time basking and sleeping in odd positions.
 
 https://imgur.com/8LjTaay
 
-###Nesting:
+### Nesting:
 
 Nesting behaviours will begin with in the 18-24 gestation period, this will consist of the female
 digging "test" burrows. once the female is happy with the location she will dig her final burrow.
@@ -97,7 +97,7 @@ laying to make sure nothing has invaded her nesting site.
 
 https://imgur.com/78bOIPs
 
-###Laying:
+### Laying:
 Finally the egg laying begins. this usually takes several hours. in my case it was 4 hours.
 
 https://imgur.com/dHveFVF
