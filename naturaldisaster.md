@@ -2,7 +2,7 @@ Natural disaster happen, we don’t always know when they will happen, so we nee
 
 Keep an emergency container (this should be something water and fire resistant/proof) with important documentation. 
 
-This should include:
+### This should include:
 
 * a list of your animals, their species, color and any special characteristics. 
 
@@ -29,7 +29,7 @@ This should include:
 If you are able and willing to evacuate your feeders do so, otherwise try to move them to a high, dry and safe area prior to evacuating. You can remove fresh vegetables, greens, fruits from your refrigerator and add to feeder bins. This gives them a food supply in your absence, as well as reduces the amount of spoilage in your fridge
 If you are friendly with a neighbor or have someone local that you trust: provide your contact information, provide them with a notice of permission to enter your home incase of emergency, a copy of your emergency plan and a copy of your list of animals/their locations.  This is incase an emergency occurs when you are out of town or not at home.
 
-OTHER NOTES: 
+### OTHER NOTES: 
 
 List scars Mark's and other identifiers
 
