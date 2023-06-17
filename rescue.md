@@ -7,7 +7,7 @@ Instead of providing the demand for WC Savannah Monitors and their irresponsible
 
 Savannah Monitors already have great difficulty in captivity, all dying a premature death, but rescues are even more of a challenge.  They often come with an array of health and temperatment issues.  They usually require more vet care and more costly medical treatments.  They require more work, time and patience than the average healthy Savannah Monitor, which is already quite a job.  You will more than likely make a large investment into a Savannah Monitor that had an already shortened lifespan shortened even more so.  
 
-I am not saying any of this to deter people from taking in a rescue but a potential owner needs to be prepared for this, needs to know the reality of things so that they can make an informed decision that in turn will be the best choice for the monitor.  It is a selfless decision. See why we [shouldn't support the pet trade](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand) for more information.
+I am not saying any of this to deter people from taking in a rescue but a potential owner needs to be prepared for this, needs to know the reality of things so that they can make an informed decision that in turn will be the best choice for the monitor.  It is a selfless decision. See why we [shouldn't support the pet trade](https://github.com/savannahmonitor/careguide/blob/main/stopsupplyanddemand.md) for more information.
 
 ## THINGS THAT NEED TO BE DONE WHEN BRINGING HOME A RESCUE 
 
@@ -22,7 +22,7 @@ Plan for extra veterinary expenses, for regular well checks, diagnostics and tre
 
 ## ACCLIMATION
 
-Follow the same directions for a baby savannah monitor guide:  [here](https://www.reddit.com/r/savannahmonitor/wiki/newsav#wiki_acclimation)
+Follow the same directions for a baby savannah monitor guide:  [here](https://github.com/savannahmonitor/careguide/blob/main/newsav.md)
 
 ## TEMPERAMENT 
 
