@@ -22,7 +22,9 @@ Plan for extra veterinary expenses, for regular well checks, diagnostics and tre
 
 ## ACCLIMATION
 
-Follow the same directions for a baby savannah monitor guide:  [here](https://github.com/savannahmonitor/careguide/blob/main/newsav.md)
+It is endorsed to use a monitor centered approach to taming. NO force handling unless medically necessary. Allow interactions to be positive and on the monitors terms.
+
+When first obtained or moved, you will need to allow your Savannah Monitor time to acclimate to it’s new surroundings as well as become used to a human presence. <b>Two weeks</b> is recommended to let your savannah monitor acclimate to his enclosure.
 
 ## TEMPERAMENT 
 
