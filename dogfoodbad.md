@@ -1,9 +1,9 @@
-#Dog Food. Why not?    
+# Dog Food. Why not?    
 By JENIFER SOLIDA
 
 
 
-###Dog Food process
+### Dog Food process
 
   All dog foods are made from “raw product”. Most dog foods are made from “pet grade” meats, even ones that promote their product as using “human grade” meat, though it may start out as such does not end up the same quality that would be legal to sell to humans. What does that mean exactly?  All human grade food must comply with the Good Manufacturing Process. The FDA (Food and Drug Administration), USDA (United States Dept of Agriculture) and HACCP (Hazard Analysis Critical Control Points) use mandatory standards for juice, seafood, poultry and meat. Though those entities are involved in the regulation of pet food production, there is one main entity that defines quality control in the pet food industry, AAFCO (American Association of Feed Control Officials). The AAFCO is an independent advisory organization, which includes pet food industry members. A bit of a conflict of interest don’t you think? Here is the proof: Pet food has NO mandatory hazard analysis or Good Manufacturing Procedures. NONE. The AAFCO developed a very generalized and basic pet food GMP however it is only a recommendation, not mandated. This is the result....
 
@@ -46,7 +46,7 @@ Sodium Tripolyphosphate- used to reduce calcium buildup, toxic to reptiles.
 
 The product is then packaged into cans. The cans go through a sterilization process by being heated to 250F for 80 minutes. Cans are then cooled, dried and then labeled.
 
-##So why is canned dog bad for Savannah Monitors? 
+## So why is canned dog bad for Savannah Monitors? 
 
   It is made for mammalians, and as you have read for yourself, even that is questionable. It also contains high amounts of mammalia and avian meat and organs with contain high levels of purines as well as saturated fat. Because Savannah Monitors are primarily insectivores that is how their internal systems have evolved and developed. This means introducing organ meat with high levels of purines cannot be properly metabolized by their system that was designed for the consumption of insect resulting in excess levels of uric acid. High levels of uric acid in their system can lead to health issues such as gout and kidney stones. Just a side note, the same is true for the insect feeders that we provide, providing high proteins like dog food and fish food to your feeders has the same results as feeding it directly to your monitor. Do not be fooled by the label on the can, not all fats are created equal. Though fat content percentages listed may look as though they are comparable to feeder insect, they are not. Mammals, birds, rodents all have high saturated fat contents. Invertebrate are high in unsaturated and poly-saturated fats. 
 
