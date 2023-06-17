@@ -1,4 +1,4 @@
-#Understanding nutrition and your Savannah Monitor’s needs
+# Understanding nutrition and your Savannah Monitor’s needs
 By JENIFER SOLIDA
 
 You will see a lot of information of diet in this group, the reason being is that most of the health issues seen in captive Savannah Monitors has a nutritional related cause. In order to formulate a balanced diet it is important for understand their monitor’s nutritional needs. Nutritional needs will vary somewhat between each individual monitor, based on age, physical condition, activity levels, environment and if there is any metabolic disorders present. 
@@ -7,7 +7,7 @@ You will see a lot of information of diet in this group, the reason being is tha
 
 Food provides the fuel for your monitor to move, grow and repair itself. The number of calories in a food item is a measure of how much potential energy that food possesses. The number of calories your monitor requires depends on many factors including: age, body size, activity levels and environment. Food is composed of many different chemical substances:
 
-##MACRONUTRIENTS: 
+## MACRONUTRIENTS: 
  major nutritional components that are present in relatively large amounts
 
 * Protein: an important component of every cell in the body. Protein is used by the body to build and repair tissue. Protein is an important building block of bones, muscles, cartilage, skin and blood.
@@ -29,10 +29,10 @@ Amino acids: organic compounds made of carbon, hydrogen, nitrogen, oxygen or sul
 
 (a gram of protein equals 4 calories)
 
-###Lipids: 
+### Lipids: 
 type of organic molecule found in living things, it is oily or waxy. Lipids are the major storage form of energy for the body. They also help build cells, protect organs, air in vitamin absorption, coat nerves to provide electrical insulation, and aid in hormone production. Lipids are long chains of carbon and hydrogen molecules that can be classified as simple or complex. The four main groups of lipids are:
 
-###Fatty acids
+### Fatty acids
 
 * Saturated fats: type of fat in which the fatty acid chains have all or predominantly single bonds. 
 
@@ -50,7 +50,7 @@ type of organic molecule found in living things, it is oily or waxy. Lipids are 
 
 (no matter what type of fat it is, every gram of fat equals nine calories)
  
-###Carbohydrates: 
+### Carbohydrates: 
 sugars, starches and fibers found in foods. The four primary functions of carbohydrates are to provide energy, store energy, build macromolecules, and spare protein and fat for other uses. They help fuel brain function, kidney functions, liver function, cardiac muscles and central nervous system. They can also aid in digestion and balance blood cholesterol levels. There are two major types of carbohydrates, simple and complex. There are five major classifications of carbohydrates:
 
 * Monosaccharides: glucose, fructose, galactose
@@ -65,11 +65,11 @@ sugars, starches and fibers found in foods. The four primary functions of carboh
 
 (a gram of carbohydrates has 4 calories)
 
-##MICRONUTRIENTS: 
+## MICRONUTRIENTS: 
 
 a chemical element or substance required in trace amounts for the normal growth and development of a living organism. Micronutrients are vital for growth, immune function and brain development, some also play key roles in preventing and fighting disease. Micronutrients include vitamins and minerals. Vitamins are necessary for energy production, immune function and blood clotting. Minerals play an important role in growth, bone health and fluid balance. 
 
-###TYPES AND FUNCTIONS OF MICRONUTRIENTS 
+### TYPES AND FUNCTIONS OF MICRONUTRIENTS 
 
 * Water-soluble vitamins: Most vitamins dissolve in water and are therefore known as water-soluble. They’re not easily stored in the body and get flushed out with urine when consumed in excess.
 
@@ -91,7 +91,7 @@ a chemical element or substance required in trace amounts for the normal growth 
  
 * Vitamin C (ascorbic acid): required for the creation of neurotransmitters and collagen
 
-###Fat-soluble vitamins 
+### Fat-soluble vitamins 
 do not dissolve in water. They’re best absorbed when consumed along side a source of fat. After consumption, fat soluble vitamins are stored in the liver and fatty tissues for future use. The way that these vitamins are stored is why it is vital to provide the correct amounts, if offered in excess it can lead to toxicity.
 
 * Vitamin A: necessary for proper vision and organ function. 
@@ -216,4 +216,4 @@ Requirements for Vitamin D3 can be partially or totally satisfied by exposure to
 
 *THESE NUMBERS WERE OBTAINED FROM MERCK MANUAL/VETERINARY MANUAL/MANAGEMENT AND NUTRITION/NUTRITION: EXOTIC AND ZOO ANIMALS
 
-see also:dietinfo for nutritional content of feeders
+see also: dietinfo for nutritional content of feeders
