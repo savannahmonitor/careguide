@@ -1,18 +1,18 @@
 It is endorsed to use a monitor centered approach to taming. NO force handling unless medically necessary. Allow interactions to be positive and on the monitors terms.
 
-##How to tame a Savannah monitor 
+## How to tame a Savannah monitor 
 
 by Danielle Middleton-Beck 
 
 https://www.youtube.com/watch?v=fZsJUHia5Ls
 
-###Stage 1
+### Stage 1
 
 Stage 1 - Environmental management reduce environmental stress, increase confidence, increase ethological appropriate enrichment
 
 This includes opportunities to explore, forage and dig...
 
-###Stage 2
+### Stage 2
 
 Stage 2 - Changing the underlying emotion: fear of caregiver.
 
@@ -20,7 +20,7 @@ Activity feeding in the caregivers presence at a distance utilizing systematic d
 
 When the save continues to forage with caregiver net to the enclosure it is a sign of systematic desensitization and counter conditioning are taking an affect.
 
-###Stage 3
+### Stage 3
 
 Stage 3 - Reinforcing calm behaviors
 
