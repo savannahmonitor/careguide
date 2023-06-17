@@ -5,7 +5,7 @@ image: https://imgur.com/mQc0oNN
 
 image by frank retes: https://imgur.com/GNP5jiV
 
-##What is a retes stack? 
+## What is a retes stack? 
 
 Retes Stacks are basking stacks designed by Frank Retes. They are a multi-tiered, elevated basking unit that provides a gradient of heat through various levels of hides so that the monitor can choose temperatures they prefer to bask at while being obscured.  When providing a setup like the ones endorsed by the group that offers the space for a large temperature gradient these stacks are not necessary but can be a beneficial addition for hatchlings/juveniles to aid in them feeling more secure during the acclimation period.
 
