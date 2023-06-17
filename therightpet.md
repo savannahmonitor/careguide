@@ -29,7 +29,7 @@
 
 * A full grown savannah monitor can get up to 3 feet. Enclosure size is essential to health. Not everyone can provide a minimum space of 8x4x4.
 
-> Do you have space for your enclosure? Can you build it or afford to buy one? Read about husbandry [here.](https://github.com/savannahmonitor/careguide/blob/main/husbandry.md)
+> Do you have space for your enclosure? Can you build it or afford to buy one? Read about husbandry [here.](https://github.com/savannahmonitor/careguide/blob/main/husbandary.md)
 
 
 ## Temperament
