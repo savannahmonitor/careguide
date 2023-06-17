@@ -1,7 +1,7 @@
-#Bioactive Substrate
+# Bioactive Substrate
 By JENIFER SOLIDA
 
-##1. What is Bioactive substrate?
+## 1. What is Bioactive substrate?
 
 Bioactive substrate contains the elements necessary for biological processes to occur within the enclosure, a mini eco system.  The natural good bacteria, microbes, invertebrates that live in the soil act as a sanitation crew. Often referred to as Clean Up Crew or CUC for short.
 
@@ -14,7 +14,7 @@ Some owners have had good results adding the following to the mix for improved m
 
 Another option is to locate an area that has not been exposed to chemicals, is away from road sides, away from water sources and dig. These are referred to as “clean” areas. Natural soil has the advantage of already containing micro-organisms. 
 
-##2. Leaf litter:
+## 2. Leaf litter:
 
 Collecting leaf litter from clean areas is a great way to add beneficial organisms as well as provide a protective layer over your substrate. 
 
@@ -71,7 +71,7 @@ Safe wood and leaf litter options:
 * Ulmus (elm)
 
 
-##3. Common custodians (CUC):
+## 3. Common custodians (CUC):
 
 * Isopods: woodlice, pill bugs, rolly-polly, dwarf white
 
@@ -86,7 +86,7 @@ Safe wood and leaf litter options:
 * Morio worms and their developed darkling beetle
 
 
-##4. List of CUC suppliers: 
+## 4. List of CUC suppliers: 
 
 * www.bugsincyberspace.com/#2805
 
