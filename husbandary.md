@@ -110,7 +110,7 @@ A separate, perhaps smaller water dish for clean drinking water is ideal. Place 
 
  Read more about enrichment [here.](https://www.reddit.com/r/savannahmonitor/wiki/enrichment)
 
-##NOTE: On fish tanks, exoterras, and repti habitats
+## NOTE: On fish tanks, exoterras, and repti habitats
 
 99.9% of health problems faced by captive Savannah Monitors are husbandry related; how they are cared for, environment and diet. With hatchling and juvenile Savannah Monitors it is more often environmental factors. This is a critical time for the monitors, the more damage done during this time the longer lasting the negative affects are long term. It is imperative to offer a beneficial environment from the start. Fish tanks, exoterras, repti habitats are not going to be able to provide the most beneficial environment possible and their use should be strictly limited (even with modifications).
 
