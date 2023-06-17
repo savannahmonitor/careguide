@@ -32,7 +32,7 @@ If your rescue is biting, hissing, and tail whipping, it is severely stressed. O
 
 You will need to be very patient. After following the acclimation guide, if your savannah is very aggressive it is suggested to wear gloves. If your monitor bites you, hisses, or tail whips, it is important not to react. If you react, you reinforce its bad behavior. Wearing gloves prevents you from being harmed, and reacting to bites. By tong feeding your savannah will learn the difference between you and food. Remember to keep your hands clean, especially if you have been handling food, or anything else that could trigger a response.
 
-##COMMON CONDITIONS SEEN WITH RESCUES
+## COMMON CONDITIONS SEEN WITH RESCUES
 
 ### OBESITY: 
 Obesity is one of the most common condition seen with rescue Savannah Monitors. Reducing weight should be done cautiously and gradually. This is one of the reasons blood work is so important in the beginning, this way you can be made aware of any deficits in liver or kidney functions. Reducing weight too quickly or with prolonged periods of ceased feedings can actually exacerbate existing organ issues.  Ways to help your Sav gradually decrease weight are:
