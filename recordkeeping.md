@@ -21,7 +21,7 @@ Quarantine is the act of isolating a newly acquired animal to note or treat any 
 
 * Quarantine enclosures will need to meet all basic housing requirements (temperatures, thermal gradient, humidity, etc)
 
-##QUARANTINE PERIOD
+## QUARANTINE PERIOD
 
 The minimum suggested time period for quarantine is 30 days but because the incubation period of many transmittable diseases that can affect reptiles is unknown, 60-90 days is preferable. 
 
