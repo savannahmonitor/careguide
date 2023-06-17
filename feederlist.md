@@ -1,8 +1,8 @@
-#Feeder options 
+# Feeder options 
 
 by JENIFER SOLIDA
 
-##INVERTEBRATES/ARTHROPODS 
+## INVERTEBRATES/ARTHROPODS 
 
 (all feeders should be gutloaded prior to being used)
 
@@ -53,13 +53,13 @@ FL legal roach options: discoid, australian, green banana, surinam, horseshoe cr
 
 * Aquatic: Apple/Mystery, Nerites, Ramshorns, Trumpets, Japanese Trapdoor
 
-##VERTEBRATE 
+## VERTEBRATE 
 
 * Whole fresh water fish (low mercury options preferred. Trout, salmon, sardines, silversides, smelt, tilapia) 
 
 * Bullfrog (fresh or live)
 
-##RARE ITEMS 
+## RARE ITEMS 
 
 (if Sav is overweight, these options should not be offered)
 
