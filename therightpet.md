@@ -6,7 +6,7 @@
 
 ## Availbility
 
-* If you buy your Savannah Monitor from a pet store, it is "Wild Caught", or WC for short. There are many reasons why this is bad. See more about how this affects savannah monitors and why you shouldn't support the pet trade [here.](www.reddit.com/r/savannahmonitor/wiki/stopsupplyanddemand) If you do not get a savannah monitor from a breeder, it is most likely wild caught. 
+* If you buy your Savannah Monitor from a pet store, it is "Wild Caught", or WC for short. There are many reasons why this is bad. See more about how this affects savannah monitors and why you shouldn't support the pet trade [here.](https://github.com/savannahmonitor/careguide/blob/main/stopsupplyanddemand.md) If you do not get a savannah monitor from a breeder, it is most likely wild caught. 
 
 > Now you know. Please try to adopt or rescue. Captive Bred (CB) is recommended, a monitor bred by a breeder. Unfortunately, it can be difficult to find a breeder, as there are very few.
 
@@ -22,14 +22,14 @@
 
 * Diet demand can be costly. Upfront costs of enclosure are also pricey.
  
-> Can you afford or have time to take care of a colony of feeders? Learn about diet [here.](www.reddit.com/r/savannahmonitor/wiki/dietinfo) Learn about feeder care [here.](www.reddit.com/r/savannahmonitor/wiki/feedercare)
+> Can you afford or have time to take care of a colony of feeders? Learn about diet [here.](https://github.com/savannahmonitor/careguide/blob/main/dietinfo.md) Learn about feeder care [here.](https://github.com/savannahmonitor/careguide/blob/main/feedercare.md)
 
 
 ## Space and size
 
 * A full grown savannah monitor can get up to 3 feet. Enclosure size is essential to health. Not everyone can provide a minimum space of 8x4x4.
 
-> Do you have space for your enclosure? Can you build it or afford to buy one? Read about husbandry [here.](www.reddit.com/r/savannahmonitor/wiki/husbandry)
+> Do you have space for your enclosure? Can you build it or afford to buy one? Read about husbandry [here.](https://github.com/savannahmonitor/careguide/blob/main/husbandry.md)
 
 
 ## Temperament
@@ -37,4 +37,4 @@
 * Temperament. Savannah monitors are not puppy dogs. It has been said "a grumpy savannah monitor is a healthy savannah monitor" They are VERY intelligent. Work on their terms. Their feeding response is aggressive.
 
  
-> Do you have time and patience to train them? read about taming [here.](www.reddit.com/r/savannahmonitor/wiki/taming)
+> Do you have time and patience to train them? read about taming [here.](https://github.com/savannahmonitor/careguide/blob/main/taming.md)
