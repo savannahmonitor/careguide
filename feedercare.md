@@ -1,10 +1,10 @@
-#FEEDER CARE: HOUSING/FEEDING/FARMING/BREEDING
+# FEEDER CARE: HOUSING/FEEDING/FARMING/BREEDING
  
 by JENIFER SOLIDA
 
 It is important to feed or “gut load” all prey items you offer your Savannah Monitor for at least 1-2 days prior to feedings. This will ensure your Savannah Monitor is getting proper nutrition from their food source instead of just an empty shell. Foods high in calcium and Vitamin A are especially important to feed your insects, and consequently your Savannah Monitor. Good sources of calcium include dark leafy greens (turnip/mustard/collard greens, kale, bok choy, spinach), broccoli and alfalfa pellets. Good sources of Vitamin A include carrots, squash and sweet potatoes. Dusting food you are offering your feeders with calcium and a multivitamin is recommended. The following are some guidelines on common feeders used...
 
-##Roach care
+## Roach care
 
 Choose a container that is wider than it is tall, with smooth sides is easiest. Glass aquariums with mess lids or plastic tubs with modified lids (cut out a portion of the lid and hot glue mesh or screen over the space) are popular choices among keepers. Roaches do seem to do better in darker conditions, so dark colored tubs and covering exterior of aquariums is a common practice. Roaches need places to hide, this can easily be provided with cardboard egg crates. Place the crates vertically from front to back of container. You can keep roaches at room temperature but in order to provide optimal conditions for breeding offering 85-95F and 60-75% humidity is suggested. In order to provide these temperatures, UTH (under tank heater) or ceramic heat emitter can be used.  
 
@@ -14,7 +14,7 @@ Because of the way the egg crates are placed, most feces should drop to the bott
 
 Video of easy to clean roach colony guide https://www.youtube.com/watch?v=V8SbxAxuF3o
 
-##Cricket care
+## Cricket care
 
 Similiar to the roach set up already described, crickets will need a container with adequate air flow, with mesh/screen lids. Crickets however need climbing space and less opportunity of being able to jump out of container when opened so a taller container would be recommended. Egg crates set up vertically from front to back. Substrate is not necessary but can be used. Common substrate is sani chips or aspen bedding. You can also provide toilet paper rolls or paper towel tubes for extra hiding places. Crickets do better in relatively low humidity, drier environments. Room temperature to 80F is the recommended temperature. 
 
@@ -22,7 +22,7 @@ Good gut loading options are fresh leafy greens and vegetable daily, as well as 
 
 To encourage breeding a nesting container, a small plastic tub, place inside the container is adviseable. Moist sand, soil or coco fiber are good choice of substrate for the nesting container.  
 
-##Superworms
+## Superworms
 
 Supers need to be kept at 70-85F, humidity levels are unimportant. Aquariums with screen lids or plastic tub with modified lid for proper ventilation. Substate is suggested for housing, popular options are oat bran, rolled oats, wheat germ or commercial superworm bedding. Make sure to keep substrate dry to prevent molding.  Replace substrate every couple of months. 
 
@@ -30,7 +30,7 @@ Offer fresh leafy greens and vegetables daily, placed directly on top of substra
 
 To breed and start your own colony of superworms, start with at least 100 worms. Supers take a long time to pupate, so do not get discouraged if you do not see beetles immediately. Collect the beetles and add them to a breeding container. Females can produce up to 500 eggs during its lifetime. It takes approximately 1 week for the eggs to hatch once laid.
  
-##Earthworms/nightcrawlers
+## Earthworms/nightcrawlers
 
 The following link has been a great resource for me setting up gut loading bin for earthworms, european and african nightcrawler
 
@@ -40,7 +40,7 @@ This is another link I have found useful for information on nightcrawlers/earthw
 
 www.wormfarmfacts.com
 
-##BLACK SOLDIER FLY LARVAE
+## BLACK SOLDIER FLY LARVAE
 
 BSFL are one of the most nutritious feeder options available for hatching and juvenile Sav (larger/adults tend to ignore them, but are still a good option to try to add to their diet on occasion). 
 
@@ -54,7 +54,7 @@ Diet: they are natural and efficient composters. Vegetables, leafy greens, fruit
 
 The life cycle of BSF is 45 days total. 4 days in egg stage, 18 days in larva stage, 14 days pre-pupa. 9 days adult stage. Female BSF can lay around 500 eggs.
 
-##SILKWORMS
+## SILKWORMS
 
 Silkworms are one of the best and highest quality feeders that you can offer your Sav. They are also expensive to purchase and often are out of stock. 
 
