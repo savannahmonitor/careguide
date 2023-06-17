@@ -1,6 +1,6 @@
-#Temperature 
+# Temperature 
 
-##Recommendations:
+## Recommendations:
   
 * Basking surface temperatures (measured by infrared temperature gun) in the range of 130-160F
 
@@ -9,7 +9,7 @@
 * Cool side ambient temperatures (measured by digital thermometer) 75-80F
 
 
- #Why understanding, providing and accurately measuring enclosure temperatures is so important
+# Why understanding, providing and accurately measuring enclosure temperatures is so important
 
 by JENIFER SOLIDA
 
@@ -39,7 +39,7 @@ A Savannah Monitor’s ability to thermoregulate effectively is entirely depende
 
 * Neurological impairment, seizures, and coma
 
-##PREFERRED BODY TEMPERATURE
+## PREFERRED BODY TEMPERATURE
 
 Temperatures offered aid in captive Savannah Monitors reaching Preferred Body Temperature (PBT). Savannah Monitor’s suspected PBT is 95F(35). PBT is the core body temperature that is optimal for numerous functions including:
 
@@ -62,7 +62,7 @@ The reason why we suggest the higher range of basking surface temperatures is to
 One of the reasons why we suggest the larger enclosure builds is so that owners can provide a larger temperature gradient (POTZ) and besides the physiological benefits of thermoregulation this also offers a psychological benefit of the monitor having more control over it’s environment and exposure to different preferred temperatures (it give the monitor more choices). 
  
 
-#Temperature and Heat for Reptiles
+# Temperature and Heat for Reptiles
 by Roman Muryn
 
 I have been meaning to put a few words together on temperature and light measurement. Before
@@ -310,7 +310,7 @@ I advise some caution in the use of these instruments; just as with visible ligh
 
 diagram 8: https://imgur.com/oYbxjiW
 
-###Summary
+### Summary
 To summarise when we choose basking arrangements, we start with choosing the lamp that provides the right wavelengths. Then we set up the lamp such that the basking target gets to about 400 or 450 when measured with a thermometer. If you are controlling (dimming) the lamp ensure that the sensor is affixed to the target basking spot without being directly illuminated. Your animals will seek to get warm in the basking spot and will move off when warmed up. If they only bask for very short periods then the setting may be too high. If they stay for ages then the setting may be too low and they are not getting warm enough.
 
 All three wavelength groups are important in the vivarium as they are in the wild.
