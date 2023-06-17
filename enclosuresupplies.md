@@ -1,9 +1,9 @@
-#LIST OF SUPPLIES FOR SAVANNAH MONITOR ENCLOSURE (AND CARE)
+# LIST OF SUPPLIES FOR SAVANNAH MONITOR ENCLOSURE (AND CARE)
 
 by JENIFER SOLIDA (amazon ref codes go to author)
 
 
-##GAUGES
+## GAUGES
 
 * INFARED TEMPERATURE GUN: An infared temp gun measures surface temperatures accurately and efficiently. This is a much needed tool to determine basking and substrate surface temperatures. *You cannot accurately measure air temperatures with this tool.
 
@@ -22,7 +22,7 @@ https://www.amazon.com/Anypro-Humidity-Hygrometer-Thermometer-Temperature/dp/B07
 
 https://www.amazon.ca/Neoteck-Thermometer-Hygrometer-Temperature-Conditioning/dp/B06Y2PB2ZN
 
-##LIGHTING
+## LIGHTING
 
 * BASKING LIGHTING: to avoid burns and offer a larger heated area that will provide full coverage of your monitor, provide 3-4 fixures using low wattage flood bulbs. 
 
@@ -32,7 +32,7 @@ https://www.amazon.ca/Neoteck-Thermometer-Hygrometer-Temperature-Conditioning/dp
 
 * Mercury Vapor Bulb (MVB) (Mega Ray 70W, Exo terra solar Glo all in one 80W, Zoo Med Powersun 80W) These bulbs provide both heat and UVB.
 
-##UVB LIGHTING: 
+## UVB LIGHTING: 
 
 Savannah Monitors come from areas with high UV indexes. They are a diurnal species, so they are exposed to high levels of UVB in the wild. We suggest offering the same in captivity to better support your monitor and ensure there are no nutritional deficits that can lead to illness or disease, UVB helps your monitor metabolize calcium properly. By using T5 High Output UVB bulbs, it provides a higher percentage of UVB but these bulbs only need to be replaced every 12 months (vs T8 UVB that have a lower output and need to be replaced every 6 months). For 8x4x4 or larger enclosures 36-48” fixture/bulb are recommended.
 
@@ -40,7 +40,7 @@ Savannah Monitors come from areas with high UV indexes. They are a diurnal speci
 
 * Arcadia D3+HO T5 14% UVB, fixture and bulb 36-48”
 
-##BUILD MATERIALS
+## BUILD MATERIALS
 
 * WOOD: There are different types of woods that can be used to build your Savannah Monitor enclosure. It is a good idea to avoid wood types that are toxic to reptiles even when the wood used will be sealed. Unsafe woods include: Cedar, Eucalyptus, Chemically treated wood, Raw Pine. The wood commonly used for construction is plywood (plywood made of pine is generally kiln dried which makes it a safe option for reptiles) and 2x2, 1x2, 2x4 white wood lumber.  
 
